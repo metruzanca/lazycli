@@ -1,0 +1,16 @@
+{
+  "name": "lazycli",
+  "version": "1.0.0",
+  "description": "node cli for generating custom templated boilerplates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "lazy",
+    "utility"
+  ],
+  "author": "Metruzanca",
+  "license": "MIT"
+}
